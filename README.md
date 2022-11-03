@@ -1,5 +1,5 @@
 # EasySoundManager
-An easy souund manager to use in any Unity project
+An easy sound manager to use in any Unity project
 This script was created by BlackSentryDev for learning purposes. Do not sell this script!!
 
 Anyways thanks for checking this out. To use this sound manager in your project, simply create a new gameobject and attach this script.
